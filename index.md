@@ -1,7 +1,6 @@
-## Basic Information
-Xingguang Yang
+## Xingguang Yang
 
-Email: xingguang2955@163.com
+Email: xingguang2955@163.com.
 
 Address: East China University of Science and Technology, Shanghai, China.
 
