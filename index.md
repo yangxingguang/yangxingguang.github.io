@@ -20,7 +20,7 @@ Postcode: 200237.
 
 [QuASoQ@APSEC'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang; Shi, Kai,An Empirical Study on Progressive Sampling for Just-in-Time Software Defect Prediction,QuASoQ@APSEC,12-18,2019.
 
-[SEKE'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang, **An Empirical Study on Optimal Solutions Selection Strategies for Effort-Aware Just-in-Time Software Defect Prediction**,319-424,2019.
+[SEKE'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang, **An Empirical Study on Optimal Solutions Selection Strategies for Effort-Aware Just-in-Time Software Defect Prediction**,SEKE'19,319-424,2019.
 
 [Scientifi Programming] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Shi, Kai; Chen, Liqiong, **Local versus Global Models for Just-In-Time Software Defect Prediction**,Scientific Programming,2019,Hindawi.
 
