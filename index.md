@@ -19,7 +19,33 @@ Postcode: 200237.
 ## Recent Selected Publications
 [[Google][1]|[DBLP][2]]
 
-[QuASoQ@APSEC] Yang, Xingguang; Yu, Huiqun; Fan, Guisheng; Yang, Kang; Shi, Kai,An Empirical Study on Progressive Sampling for Just-in-Time Software Defect Prediction,QuASoQ@APSEC,12-18,2019.
+[QuASoQ@APSEC'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang; Shi, Kai,An Empirical Study on Progressive Sampling for Just-in-Time Software Defect Prediction,QuASoQ@APSEC,12-18,2019.
+
+[SEKE'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang, **An Empirical Study on Optimal Solutions Selection Strategies for Effort-Aware Just-in-Time Software Defect Prediction**,319-424,2019.
+
+[Scientifi Programming] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Shi, Kai; Chen, Liqiong, **Local versus Global Models for Just-In-Time Software Defect Prediction**,Scientific Programming,2019,Hindawi.
+
+[PIC'17] **Yang, Xingguang**; Yu, Huiqun; Guo, Jianmei; Fan, GuiSheng; Shi, Kai,**Underfloor heating users prediction based on SVDD**,2017 International Conference on Progress in Informatics and Computing (PIC),435-439,2017,IEEE.
+
+[IEEE Transactions on Reliability] **Yang, Xingguang** et al. **SPD-ORB: A New Learning Model for Online Just-in-Time Software Defect Prediction**,IEEE Transactions on Reliability, under review.
+
+
+[ASE'20] **Yang, Xingguang** et al. **A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,ASE'20, under review.
+
+
+
+[SPE'18] Shi, Kai; Yu, Huiqun; Guo, Jianmei; Fan, Guisheng; **Yang, Xingguang**, **A parallel portfolio approach to configuration optimization for large software product lines**,Software: Practice and Experience,48,9,1588-1606,2018,Wiley Online Library.
+
+
+[IJSEKE'19] Shi, Kai; Yu, Huiqun; Fan, Guisheng; Guo, Jianmei; Chen, Liqiong; **Yang, Xingguang**; Sun, Huaiying, **Mutation with local searching and elite inheritance mechanism in multi-objective optimization algorithm: a case study in software product line**,International Journal of Software Engineering and Knowledge Engineering,29,09,1347-1378,2019,World Scientific Publishing Company.
+
+[IJSEKE'19] Shi, Kai; Yu, Huiqun; Guo, Jianmei; Fan, Guisheng; Chen, Liqiong; **Yang, Xingguang**, **A Parallel Framework of Combining Satisfiability Modulo Theory with Indicator-Based Evolutionary Algorithm for Configuring Large and Real Software Product Lines**,International Journal of Software Engineering and Knowledge Engineering,29,04,489-513,2019,World Scientific Publishing Company.
+
+[COMPSAC'18] Yu, Huiqun; Shi, Kai; Guo, Jianmei; Fan, Guisheng; **Yang, Xingguang**; Chen, Liqiong, **Combining constraint solving with different MOEAs for configuring large software product lines: a case study**,2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC),1,,54-63,2018,IEEE.
+
+[GPC'18] Shi, Kai; Yu, Huiqun; Fan, Guisheng; **Yang, Xingguang**; Song, Zheng; ",**imBBO: An Improved Biogeography-Based Optimization Algorithm**, International Conference on Green, Pervasive, and Cloud Computing，284-297,2018,Springer.
+
+[PIC'18] Yang, Kang; Yu, Huiqun; Fan, Guisheng; **Yang, Xingguang**; Zheng, Song; Leng, Chunxia; ",**Software Defect Prediction Based on Fourier Learning**,2018 IEEE International Conference on Progress in Informatics and Computing (PIC),,,388-392,2018,IEEE.
 
 [1]: https://scholar.google.com/citations?user=FO57rqMAAAAJ&hl=zh-CN&oi=sra
 
