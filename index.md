@@ -46,6 +46,8 @@ Postcode: 200237.
 
 [PIC'18] Yang, Kang; Yu, Huiqun; Fan, Guisheng; **Yang, Xingguang**; Zheng, Song; Leng, Chunxia; ",**Software Defect Prediction Based on Fourier Learning**,2018 IEEE International Conference on Progress in Informatics and Computing (PIC),388-392,2018,IEEE.
 
+[COMSIS'20] Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**, **Graph Embedding Code Prediction Model Integrating Semantic Features**, COMSIS 2020, accepted.
+
 [1]: https://scholar.google.com/citations?user=FO57rqMAAAAJ&hl=zh-CN&oi=sra
 
 [2]: https://dblp.uni-trier.de/pers/hd/y/Yang:Xingguang
