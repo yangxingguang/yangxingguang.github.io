@@ -18,6 +18,14 @@ Postcode: 200237.
 ## Recent Selected Publications
 [[Google][1]|[DBLP][2]]
 
+[IEEE Transactions on Reliability] **Yang, Xingguang** et al. **SPD-ORB: A New Learning Model for Online Just-in-Time Software Defect Prediction**,IEEE Transactions on Reliability, under review.
+
+[ASE'20] **Yang, Xingguang** et al. **A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,ASE'20, under review.
+
+[IDA'20] **Yang, Xingguang** et al. **DEJIT: A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,DEJIT'20, under review.
+
+
+
 [QuASoQ@APSEC'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang; Shi, Kai,An Empirical Study on Progressive Sampling for Just-in-Time Software Defect Prediction,QuASoQ@APSEC,12-18,2019.
 
 [SEKE'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang, **An Empirical Study on Optimal Solutions Selection Strategies for Effort-Aware Just-in-Time Software Defect Prediction**,SEKE'19,319-424,2019.
@@ -25,12 +33,6 @@ Postcode: 200237.
 [Scientifi Programming] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Shi, Kai; Chen, Liqiong, **Local versus Global Models for Just-In-Time Software Defect Prediction**,Scientific Programming,2019,Hindawi.
 
 [PIC'17] **Yang, Xingguang**; Yu, Huiqun; Guo, Jianmei; Fan, GuiSheng; Shi, Kai,**Underfloor heating users prediction based on SVDD**,2017 International Conference on Progress in Informatics and Computing (PIC),435-439,2017,IEEE.
-
-[IEEE Transactions on Reliability] **Yang, Xingguang** et al. **SPD-ORB: A New Learning Model for Online Just-in-Time Software Defect Prediction**,IEEE Transactions on Reliability, under review.
-
-
-[ASE'20] **Yang, Xingguang** et al. **A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,ASE'20, under review.
-
 
 
 [SPE'18] Shi, Kai; Yu, Huiqun; Guo, Jianmei; Fan, Guisheng; **Yang, Xingguang**, **A parallel portfolio approach to configuration optimization for large software product lines**,Software: Practice and Experience,48,9,1588-1606,2018,Wiley Online Library.
