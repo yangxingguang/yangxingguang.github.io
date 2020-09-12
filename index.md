@@ -20,9 +20,9 @@ Postcode: 200237.
 
 [IEEE Transactions on Reliability] **Yang, Xingguang** et al. **SPD-ORB: A New Learning Model for Online Just-in-Time Software Defect Prediction**,IEEE Transactions on Reliability, under review.
 
-[ASE'20] **Yang, Xingguang** et al. **A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,ASE'20, under review.
+[ASE'20] **Yang, Xingguang** et al. **DEJIT: A Differential Evolution Algorithm for Effort-Aware Just-in-Time Software Defect Prediction**,IJSEKE'20, under review.
 
-[IDA'20] **Yang, Xingguang** et al. **DEJIT: A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,DEJIT'20, under review.
+[RL+SE@FSE'20] **Yang, Xingguang** et al. **A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,RL+SE@FSE'20, Accept.
 
 
 
@@ -49,6 +49,8 @@ Postcode: 200237.
 [PIC'18] Yang, Kang; Yu, Huiqun; Fan, Guisheng; **Yang, Xingguang**; Zheng, Song; Leng, Chunxia; ",**Software Defect Prediction Based on Fourier Learning**,2018 IEEE International Conference on Progress in Informatics and Computing (PIC),388-392,2018,IEEE.
 
 [COMSIS'20] Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**, **Graph Embedding Code Prediction Model Integrating Semantic Features**, COMSIS 2020, accepted.
+
+[EAI CollaborateCom'20] Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**, **Code prediction based on graph embedding**, EAI CollaborateCom 2020, accepted.
 
 [1]: https://scholar.google.com/citations?user=FO57rqMAAAAJ&hl=zh-CN&oi=sra
 
