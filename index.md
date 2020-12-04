@@ -20,7 +20,7 @@ Postcode: 200237.
 
 [IEEE Transactions on Reliability] **Yang, Xingguang** et al. **SPD-ORB: A New Learning Model for Online Just-in-Time Software Defect Prediction**,IEEE Transactions on Reliability, under review.
 
-[ASE'20] **Yang, Xingguang** et al. **DEJIT: A Differential Evolution Algorithm for Effort-Aware Just-in-Time Software Defect Prediction**,IJSEKE'20, under review.
+[IJSEKE'20] **Yang, Xingguang** et al. **DEJIT: A Differential Evolution Algorithm for Effort-Aware Just-in-Time Software Defect Prediction**,IJSEKE'20, Accept.
 
 [RL+SE@FSE'20] **Yang, Xingguang** et al. **A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,RL+SE@FSE'20, Accept.
 
