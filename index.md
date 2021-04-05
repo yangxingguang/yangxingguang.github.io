@@ -18,7 +18,7 @@ Postcode: 200237.
 ## Recent Selected Publications
 [[Google][1]|[DBLP][2]]
 
-[1]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. DEJIT: A differential evolution algorithm for effort-aware just-in-time software defect prediction. International Journal of Software Engineering and Knowledge Engineering(IJSEKE). (CCF C类期刊, SCI检索, 已录用)  
+[1]**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. DEJIT: A differential evolution algorithm for effort-aware just-in-time software defect prediction. International Journal of Software Engineering and Knowledge Engineering(IJSEKE). (CCF C类期刊, SCI检索, 已录用)  
 [2] **Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kai Shi, Liqiong Chen. Local versus global models for just-in-time software defect prediction. Scientific Programming, 2019: 2384706:1-2384706:13. (SCI检索号: 000472887800001)  
 [3]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. SPD-ORB: a new learning model for online just-in-time software defect prediction. IEEE Transactions on Reliability. (SCI检索, 大修)  
 [4]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. An empirical study on optimal solutions selection strategies for effort-aware just-in-time software defect prediction. 31st International Conference on Software Engineering and Knowledge Engineering(SEKE), 2019: 319-324. (CCF C类会议, EI检索号: 20193507379051)  
