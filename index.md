@@ -18,39 +18,31 @@ Postcode: 200237.
 ## Recent Selected Publications
 [[Google][1]|[DBLP][2]]
 
-[IEEE Transactions on Reliability] **Yang, Xingguang** et al. **SPD-ORB: A New Learning Model for Online Just-in-Time Software Defect Prediction**,IEEE Transactions on Reliability, under review.
+[1]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. DEJIT: A differential evolution algorithm for effort-aware just-in-time software defect prediction. International Journal of Software Engineering and Knowledge Engineering(IJSEKE). (CCF C类期刊, SCI检索, 已录用)
+[2]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kai Shi, Liqiong Chen. Local versus global models for just-in-time software defect prediction. Scientific Programming, 2019: 2384706:1-2384706:13. (SCI检索号: 000472887800001)
+[3]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. SPD-ORB: a new learning model for online just-in-time software defect prediction. IEEE Transactions on Reliability. (SCI检索, 大修)
+[4]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. An empirical study on optimal solutions selection strategies for effort-aware just-in-time software defect prediction. 31st International Conference on Software Engineering and Knowledge Engineering(SEKE), 2019: 319-324. (CCF C类会议, EI检索号: 20193507379051)
+[5]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. A differential evolution-based approach for effort-aware just-in-time software defect prediction. The 1st International Workshop on Representation Learning for Software Engineering and Program Languages (RL+SE&PL), Co-located with ACM SIGSOFT Conference on the Foundations of Software Engineering (FSE). 2020: 13-16. (CCF A类会议workshop, EI检索号: 20204909576035)
+[6]	**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang, Kai Shi. An empirical study on progressive sampling for just-in-time software defect prediction. Proceedings of the 7th International Workshop on Quantitative Approaches to Software Quality (QuASoQ), Co-located with 26th Asia-Pacific Software Engineering Conference (APSEC), 2019: 12-18. (CCF C类会议workshop, EI检索号: 20195207892878)
+[7]	**杨星光**, 虞慧群, 范贵生, 黄子杰, 杨康. 面向多目标即时缺陷预测的最优解选择策略. 电子学报. (CCF A类中文期刊, 审稿中)
+[8]	**Xingguang Yang**, Huiqun Yu, Jianmei Guo, Guisheng Fan, Kai Shi. Underfloor heating users prediction based on SVDD. 5th International Conference on Progress in Informatics and Computing(PIC), 2017: 435-439. (EI检索号: 20182405301225)
+[9]	黄晓伟, 范贵生, 虞慧群, **杨星光**. 基于重子节点抽象语法树的软件缺陷预测[J]. 计算机工程. (CCF C类中文期刊, 已录用)
+[10]	范贵生, 陈玎乐, **杨星光**, 虞慧群. 基于差分演化算法的跨项目缺陷预测方法[J]. 计算工程与设计. (CCF C类中文期刊, 已录用)
+[11]	Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**. Software defect prediction based on fourier learning[C]. IEEE International Conference on Progress in Informatics and Computing (PIC), 2018: 388-392. (EI检索号: 20192106964295)
+[12]	范贵生, 陈玎乐, **杨星光**, 虞慧群, 黄子杰. 融合迁移学习和差分演化的跨项目缺陷预测. 计算机研究与发展. (CCF A类中文期刊, 审稿中)
+[13]	Yan Huang, Xian Xu, Huiqun Yu, **Xingguang Yang**. A feature transfer and domain adaptation approach for heterogeneous defect prediction[C]. 33st International Conference on Software Engineering and Knowledge Engineering(SEKE). (CCF C类会议, 审稿中)
+[14]	Minyang Yi, Guisheng Fan, Huiqun Yu, **Xingguang Yang**. An empirical study on the impact of class overlap in just-in-time software defect prediction[C]. 33st International Conference on Software Engineering and Knowledge Engineering(SEKE). (CCF C类会议, 审稿中)
+[15]	Kai Shi, Huiqun Yu, Jianmei Guo, Guisheng Fan, **Xingguang Yang**. A parallel portfolio approach to configuration optimization for large software product lines[J]. Software: Practice and Experience (SPE), 2018, 48(9): 1588-1606.(CCF-B 类期刊, SCI检索号: 000440932300004,)
+[16]	Kai Shi, Huiqun Yu, Jianmei Guo, Guisheng Fan, **Xingguang Yang**. A parallel framework of combining satisfiability modulo theory with indicator-based evolutionary algorithm for configuring large and real software product lines[J]. International Journal on Software Engineering and Knowledge Engineering (IJSEKE), 2019, 29(4): 489-513. (CCF-C类期刊, SCI检索号:000465941100002)
+[17]	Kai Shi, Huiqun Yu, Guisheng Fan, Jianmei Guo, Liqiong Chen, **Xingguang Yang**, Huaiying Sun. Mutation with local searching and elite inheritance mechanism for multi-objective optimization algorithm: a case study in software product line[J]. International Journal of Software Engineering and Knowledge Engineering(IJSEKE), 2019, 29(09): 1347-1378. (CCF-C类期刊, SCI检索号: 000489862900006 )
+[18]	Huiqun Yu, Kai Shi, Jianmei Guo, GuiSheng Fan, **Xingguang Yang**, Liqiong Chen.  Combining constraint solving with different MOEAs for configuring large software product lines: a case study[C]. Internatonal Computer Software and Applications Conference (COMPSAC), 2018: 54-63. (CCF-C类会议, EI检索号: 20184406004237)
+[19]	Kai Shi, Huiqun Yu, Guisheng Fan, **Xingguang Yang**, Zheng Song. imBBO: an improved biogeography-based optimization algorithm[C]. International Conference on Green, Pervasive and Cloud Computing(GPC), 2018: 284-297. (EI检索号: 20191506764451)
+[20]	Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**. Code prediction based on graph embedding model[C]. International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom). 2020: 419-430. (CCF C类会议)
+[21]	Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**. Graph embedding code prediction model integrating semantic features[J]. Computer Science and Information Systems, 2020, 17(3): 907-926. (SCI检索号: 000580043200015)
+[22]	Zijie Huang, Zhiqing Shao, Guisheng Fan, Jianhua Gao, Ziyi Zhou, Kang Yang, **Xingguang Yang**. Predicting community smells’ occurrence on individual developers by sentiments[C]. The 29th IEEE/ACM International Conference on Program Comprehension(ICPC). (CCF B类会议, 已录用)
+[23]	Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**. A graph sequence neural architecture for next code prediction with semantic structure features [J]. Journal of Software: Evolution and Process(JSEP). (CCF B类期刊, 审稿中)
+[24]	Ziyi Zhou, Huiqun Yu, Guisheng Fan, Zijie Huang, **Xingguang Yang**, Kang Yang. Summarizing source code with hierarchical code representation. Information and Software Technology(IST). (CCF B类期刊, 审稿中)
 
-[IJSEKE'20] **Yang, Xingguang** et al. **DEJIT: A Differential Evolution Algorithm for Effort-Aware Just-in-Time Software Defect Prediction**,IJSEKE'20, Accept.
-
-[RL+SE@FSE'20] **Yang, Xingguang** et al. **A Differential Evolution-Based Approach for Effort-Aware Just-in-Time Software Defect Prediction**,RL+SE@FSE'20, Accept.
-
-
-
-[QuASoQ@APSEC'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang; Shi, Kai,An Empirical Study on Progressive Sampling for Just-in-Time Software Defect Prediction,QuASoQ@APSEC,12-18,2019.
-
-[SEKE'19] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Yang, Kang, **An Empirical Study on Optimal Solutions Selection Strategies for Effort-Aware Just-in-Time Software Defect Prediction**,SEKE'19,319-424,2019.
-
-[Scientifi Programming] **Yang, Xingguang**; Yu, Huiqun; Fan, Guisheng; Shi, Kai; Chen, Liqiong, **Local versus Global Models for Just-In-Time Software Defect Prediction**,Scientific Programming,2019,Hindawi.
-
-[PIC'17] **Yang, Xingguang**; Yu, Huiqun; Guo, Jianmei; Fan, GuiSheng; Shi, Kai,**Underfloor heating users prediction based on SVDD**,2017 International Conference on Progress in Informatics and Computing (PIC),435-439,2017,IEEE.
-
-
-[SPE'18] Shi, Kai; Yu, Huiqun; Guo, Jianmei; Fan, Guisheng; **Yang, Xingguang**, **A parallel portfolio approach to configuration optimization for large software product lines**,Software: Practice and Experience,48,9,1588-1606,2018,Wiley Online Library.
-
-
-[IJSEKE'19] Shi, Kai; Yu, Huiqun; Fan, Guisheng; Guo, Jianmei; Chen, Liqiong; **Yang, Xingguang**; Sun, Huaiying, **Mutation with local searching and elite inheritance mechanism in multi-objective optimization algorithm: a case study in software product line**,International Journal of Software Engineering and Knowledge Engineering,29,09,1347-1378,2019,World Scientific Publishing Company.
-
-[IJSEKE'19] Shi, Kai; Yu, Huiqun; Guo, Jianmei; Fan, Guisheng; Chen, Liqiong; **Yang, Xingguang**, **A Parallel Framework of Combining Satisfiability Modulo Theory with Indicator-Based Evolutionary Algorithm for Configuring Large and Real Software Product Lines**,International Journal of Software Engineering and Knowledge Engineering,29,04,489-513,2019,World Scientific Publishing Company.
-
-[COMPSAC'18] Yu, Huiqun; Shi, Kai; Guo, Jianmei; Fan, Guisheng; **Yang, Xingguang**; Chen, Liqiong, **Combining constraint solving with different MOEAs for configuring large software product lines: a case study**,2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC),1,54-63,2018,IEEE.
-
-[GPC'18] Shi, Kai; Yu, Huiqun; Fan, Guisheng; **Yang, Xingguang**; Song, Zheng; ",**imBBO: An Improved Biogeography-Based Optimization Algorithm**, International Conference on Green, Pervasive, and Cloud Computing，284-297,2018,Springer.
-
-[PIC'18] Yang, Kang; Yu, Huiqun; Fan, Guisheng; **Yang, Xingguang**; Zheng, Song; Leng, Chunxia; ",**Software Defect Prediction Based on Fourier Learning**,2018 IEEE International Conference on Progress in Informatics and Computing (PIC),388-392,2018,IEEE.
-
-[COMSIS'20] Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**, **Graph Embedding Code Prediction Model Integrating Semantic Features**, COMSIS 2020, accepted.
-
-[EAI CollaborateCom'20] Kang Yang, Huiqun Yu, Guisheng Fan, **Xingguang Yang**, **Code prediction based on graph embedding**, EAI CollaborateCom 2020, accepted.
 
 [1]: https://scholar.google.com/citations?user=FO57rqMAAAAJ&hl=zh-CN&oi=sra
 
