@@ -16,7 +16,7 @@ Postcode: 200237.
 09/2009~06/2012, Hushan Middle School.
 
 ## Recent Selected Publications
-[[Google][1]|[DBLP][2]]
+[[Google][a]|[DBLP][b]]
 
 [1]**Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kang Yang. DEJIT: A differential evolution algorithm for effort-aware just-in-time software defect prediction. International Journal of Software Engineering and Knowledge Engineering(IJSEKE). (CCF C类期刊, SCI检索, 已录用)  
 [2] **Xingguang Yang**, Huiqun Yu, Guisheng Fan, Kai Shi, Liqiong Chen. Local versus global models for just-in-time software defect prediction. Scientific Programming, 2019: 2384706:1-2384706:13. (SCI检索号: 000472887800001)  
@@ -44,6 +44,6 @@ Postcode: 200237.
 [24]	Ziyi Zhou, Huiqun Yu, Guisheng Fan, Zijie Huang, **Xingguang Yang**, Kang Yang. Summarizing source code with hierarchical code representation. Information and Software Technology(IST). (CCF B类期刊, 审稿中)  
 
 
-[1]: https://scholar.google.com/citations?user=FO57rqMAAAAJ&hl=zh-CN&oi=sra
+[a]: https://scholar.google.com/citations?user=FO57rqMAAAAJ&hl=zh-CN&oi=sra
 
-[2]: https://dblp.uni-trier.de/pers/hd/y/Yang:Xingguang
+[b]: https://dblp.uni-trier.de/pers/hd/y/Yang:Xingguang
